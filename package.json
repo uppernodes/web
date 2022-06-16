@@ -1,0 +1,49 @@
+{
+  "name": "LMS",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^1.8.6",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@hookform/resolvers": "^2.8.8",
+    "antd": "^4.21.2",
+    "apexcharts": "^3.35.2",
+    "aws-sdk": "^2.1155.0",
+    "axios": "^0.26.1",
+    "dateformat": "^5.0.3",
+    "framer-motion": "^6.2.8",
+    "fs": "^0.0.1-security",
+    "jwt-decode": "^3.1.2",
+    "next": "12.1.0",
+    "nookies": "^2.5.2",
+    "react": "17.0.2",
+    "react-apexcharts": "^1.4.0",
+    "react-aws-s3": "^1.5.0",
+    "react-dom": "17.0.2",
+    "react-fast-marquee": "^1.3.2",
+    "react-hook-form": "^7.28.0",
+    "react-icons": "^4.3.1",
+    "react-image-file-resizer": "^0.4.8",
+    "react-markdown": "^8.0.3",
+    "react-number-format": "^4.9.3",
+    "react-player": "^2.10.1",
+    "react-query": "^3.34.16",
+    "styled-components": "^5.3.5",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/react": "^18.0.12",
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0",
+    "typescript": "^4.6.2"
+  }
+}
